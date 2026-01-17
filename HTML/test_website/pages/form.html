@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+    <legend> data form </legend>
+    <form>
+        <div>
+            <label>Enter your Name:</label> 
+            <input type="text" placeholder="Enter your full name" required>
+        </div>
+
+        Choose your Sex: <br>
+        <label> <input type="radio" name="sex" value="male" required>Male </label>
+        <label> <input type="radio" name="sex" value="female">Female </label>
+        <label> <input type="radio" name="sex" value="others">Others </label>
+        <hr>
+        Qualification <br>
+        SEE:
+        <select>
+            <option value="" disabled selected>Select a school</option>
+            <option>opt1</option>
+            <option>opt2</option>
+            <option>opt3</option>
+        </select> 
+        High School:
+        <select>
+            <option value="" disabled selected>Select a school</option>
+            <option>opt_1</option>
+            <option>opt_2</option>
+            <option>opt_3</option>
+        </select>
+        <hr>
+        Which devices do you use? <br>
+        <label> <input type="checkbox" name="device" value="Mobile">Smartphone</label>
+        <label> <input type="checkbox" name="device" value="Laptop">Laptop</label>
+        <label> <input type="checkbox" name="device" value="PC">Personal Computer</label>
+        <hr>
+        Comment Section: <br>
+        <textarea rows="5" cols="30" placeholder="Enter your comment here ..."></textarea> <br>
+        <input type="Submit" value="Submit Data">
+        <input type="Reset" value="Reset Data">
+    </form>
+    </fieldset>
+</body>
+</html>
