@@ -1,0 +1,160 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+    background-color: yellow;
+}
+
+.main{
+    width: 1200px;
+    height: 1500px;
+    background-color: black;
+
+}
+
+
+.one{
+    height: 300px;
+    background-color: white;
+    margin:0%;
+    padding-top:0%;
+}
+
+
+.two{
+    height: 300px;
+    background-color: red;
+}
+
+.a{
+    height: 300px;
+    width: 600px;
+    background-color: cyan;
+    float: left;
+    text-align: center;
+    font-size: 200px;
+}
+.b{
+    height: 300px;
+    width: 600px;
+    background-color: mediumvioletred;
+    float: right;
+    text-align: center;
+    font-size: 200px;
+}
+
+
+.three{
+    height: 300px;
+    background-color: pink;
+}
+
+.c{
+    height: 300px;
+    width: 400px;
+    background-color: beige;
+    text-align: center;
+    font-size: 200px;
+    float: left;
+}
+.d{
+    height: 300px;
+    width: 400px;
+    background-color: grey;
+    text-align: center;
+    font-size: 200px;
+    float: left;
+}
+.e{
+    height: 300px;
+    width: 400px;
+    background-color: maroon;
+    text-align: center;
+    font-size: 200px;
+    float: right;
+}
+
+
+.four{
+    height: 300px;
+    background-color: chartreuse;
+}
+.f{
+    height: 300px;
+    width: 300px;
+    background-color:blanchedalmond;
+    font-size: 200px;
+    text-align: center;
+    float: left;
+}
+.g{
+    height: 300px;
+    width: 300px;
+    background-color:blue;
+    font-size: 200px;
+    text-align: center;
+    float: left;
+}
+.h{
+    height: 300px;
+    width: 300px;
+    background-color: hotpink;
+    font-size: 200px;
+    text-align: center;
+    float: left;
+}
+.i{
+    height: 300px;
+    width: 300px;
+    background-color: honeydew;
+    font-size: 200px;
+    text-align: center;
+    float: right;
+}
+
+
+.five{
+    height: 300px;
+    background-color: aqua;
+}
+.j{
+    height: 300px;
+    width: 240px;
+    background-color: brown;
+    font-size: 200px;
+    text-align: center;
+    float: left;
+}
+.k{
+    height: 300px;
+    width: 240px;
+    background-color:azure;
+    font-size: 200px;
+    text-align: center;
+    float: left;
+}
+.l{
+    height: 300px;
+    width: 240px;
+    background-color:blueviolet;
+    font-size: 200px;
+    text-align: center;
+    float: left;
+}
+.m{
+    height: 300px;
+    width: 240px;
+    background-color:aliceblue;
+    font-size: 200px;
+    text-align: center;
+    float: left;
+}
+.n{
+    height: 300px;
+    width: 240px;
+    background-color:chocolate;
+    font-size: 200px;
+    text-align: center;
+    float: right;
+}
+
+
