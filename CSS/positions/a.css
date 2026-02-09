@@ -1,0 +1,24 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+body
+{
+background-color: black;
+}
+.main{
+    height: 400px;
+    width: 400px;
+    background-image: url(image.png);
+border-radius:absolute;
+left: 100px;
+bottom: -100px;
+background-size: contain;
+border: 5px solid white;
+}
+.a{
+    
+}
+.b{
+
+}

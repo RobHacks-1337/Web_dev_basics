@@ -29,3 +29,7 @@ padding and margin
 
 overflow
 > hidden, auto, scroll
+
+positions: (for )
+> static(default), sticky -> fixed, relative: main div, absolute: inner/sub div
+

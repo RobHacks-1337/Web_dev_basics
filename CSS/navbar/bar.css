@@ -1,0 +1,25 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+.nav{
+    height: 50px;
+    width: 800px;
+    background-color: black;
+}
+
+.nav ul{
+    list-style: none;
+}
+
+.nav li{
+    float: left;
+
+}
+.nav a{
+
+}
+
+.nav a:hover{
+
+}
